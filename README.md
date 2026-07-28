@@ -1,6 +1,6 @@
-# nyybeats-api
+# useless-api
 
-NyyBeats API is a simple API that allows the user to return a song title.
+Useless API is a simple API that allows the user to return a song title.
 
 ## Installation
 
